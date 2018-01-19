@@ -6,7 +6,7 @@ tellJoke();
 
 
 function NameofFunction() {
-  // body of function
+  consolelog(dry)
 }
 
 function addNumbers(num1, num2, num3, num4) {
