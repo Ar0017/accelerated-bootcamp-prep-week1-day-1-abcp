@@ -13,4 +13,4 @@ console.log(personality);
 // and console.log the new value
 
 var personality = "conscientious"
-console.log = 
+console.log(personality)
